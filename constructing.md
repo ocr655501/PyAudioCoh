@@ -1,4 +1,4 @@
-Dual-Mic coherence-based denoising algorithm refencing the link: github.com/wangwei2009/coherence
+Dual-Mic coherence-based denoising algorithm referenced the link: github.com/wangwei2009/coherence
 
 But implemented something to Python.
 
