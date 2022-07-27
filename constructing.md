@@ -1,4 +1,5 @@
 Dual-Mic coherence-based denoising algorithm refencing the link: github.com/wangwei2009/coherence
+
 But implemented something to Python.
 
 Only for reference - I did not write how to export denoised files
@@ -6,6 +7,7 @@ Only for reference - I did not write how to export denoised files
 **Python 3.10+** is required to use match structure (acts as switch in other languages)
 
 Import plugins required to install:
+
 - numpy
 - scipy
 - matplotlib
